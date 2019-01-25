@@ -1,8 +1,8 @@
 # DandyWavesAngularPrjct
-
+https://kims480.github.io/DandyWavesAngularPrjct/
 You may find some Error if You not Using the right base
 
-#<base href="http://localhost/<project name>/">
+<code> < base href="http://localhost/<project name>/"></code>
 and also .htaccess file should be configured if you use Appache Server
 
 RewriteEngine On
